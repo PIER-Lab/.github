@@ -8,7 +8,7 @@
 
 Mechanics &nbsp; · &nbsp; Physical AI &nbsp; · &nbsp; Embodied Intelligence &nbsp; · &nbsp; Engineering
 
-[Research](#research-directions) &nbsp; / &nbsp; [Projects & Papers](#projects--papers) &nbsp; / &nbsp; [Repositories](https://github.com/orgs/PIER-Lab/repositories)
+[Recent Research](#recent-research) &nbsp; / &nbsp; [Repositories](https://github.com/orgs/PIER-Lab/repositories)
 
 </div>
 
@@ -18,40 +18,67 @@ We study how intelligent systems **understand, reason about, and interact with t
 
 Our work spans executable world models for physical reasoning, vision and touch for contact-rich manipulation, and spatial intelligence under geometric and physical constraints. We share code, benchmarks, and research tools to support further exploration of physical intelligence.
 
-## Research Directions
+## Recent Research
+
+Newest first · Dates refer to the first arXiv submission.
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<h3>Model & Reason</h3>
-<a href="https://github.com/PIER-Lab/Asking-the-World"><img src="https://raw.githubusercontent.com/PIER-Lab/Asking-the-World/main/assets/teaser.png" width="100%" alt="Asking the World: executable worlds for physical reasoning" /></a>
-<p><strong>Physical reasoning & world modeling</strong></p>
-<p>Build executable worlds from observations. Use simulation and interventions to explain, predict, and reason about physical events.</p>
+<td width="38%" valign="middle">
+<a href="https://tactalent.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/TacTalent/main/assets/readme/benchmark-performance.png" width="100%" alt="TacTalent research overview" /></a>
 </td>
-<td width="33%" valign="top">
-<h3>Sense & Act</h3>
-<a href="https://github.com/PIER-Lab/SimpleTouch"><img src="https://raw.githubusercontent.com/PIER-Lab/SimpleTouch/main/assets/teaser.webp" width="100%" alt="SimpleTouch: tactile experts for contact-rich manipulation" /></a>
-<p><strong>Embodied intelligence & touch</strong></p>
-<p>Connect vision, language, and tactile feedback to action. Study how intelligent agents perceive contact and manipulate the world.</p>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/PIER-Lab/TacTalent">TacTalent</a></h3>
+<p>2026-10-19</p>
+<p>Investigating a general-purpose multimodal model as a visuo-tactile policy for contact-rich manipulation.</p>
+<p><a href="https://github.com/PIER-Lab/TacTalent">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2610.26846">Paper</a> &nbsp; · &nbsp; <a href="https://tactalent.github.io/">Project Page</a></p>
 </td>
-<td width="33%" valign="top">
-<h3>Structure & Understand</h3>
-<a href="https://github.com/PIER-Lab/SSI-Bench"><img src="https://raw.githubusercontent.com/PIER-Lab/SSI-Bench/main/assets/teaser.jpg" width="100%" alt="SSI-Bench: spatial reasoning in physically constrained structures" /></a>
-<p><strong>Mechanics & spatial intelligence</strong></p>
-<p>Understand structures and their constraints. Evaluate spatial reasoning governed by geometry, topology, and physics.</p>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<a href="https://simpletouch-robot.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/SimpleTouch/main/assets/teaser.webp" width="100%" alt="SimpleTouch research overview" /></a>
+</td>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/PIER-Lab/SimpleTouch">SimpleTouch</a></h3>
+<p>2026-10-02</p>
+<p>Tactile experts for contact-rich manipulation without tactile policy pretraining.</p>
+<p><a href="https://github.com/PIER-Lab/SimpleTouch">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2610.02784">Paper</a> &nbsp; · &nbsp; <a href="https://simpletouch-robot.github.io/">Project Page</a></p>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<a href="https://asking-the-world.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/Asking-the-World/main/assets/teaser.png" width="100%" alt="Asking the World research overview" /></a>
+</td>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/PIER-Lab/Asking-the-World">Asking the World</a></h3>
+<p>2026-09-30</p>
+<p>Generalist physical reasoning through agentic world modeling and probing, with a programmable multiphysics engine.</p>
+<p><a href="https://github.com/PIER-Lab/Asking-the-World">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2609.39135">Paper</a> &nbsp; · &nbsp; <a href="https://asking-the-world.github.io/">Project Page</a></p>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<a href="https://physmind.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/PhysMind/main/assets/teaser.png" width="100%" alt="PhysMind research overview" /></a>
+</td>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/PIER-Lab/PhysMind">PhysMind</a></h3>
+<p>2026-08-05</p>
+<p>From video to executable 3D worlds for training-free physical reasoning.</p>
+<p><a href="https://github.com/PIER-Lab/PhysMind">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2608.04575">Paper</a> &nbsp; · &nbsp; <a href="https://physmind.github.io/">Project Page</a></p>
+</td>
+</tr>
+<tr>
+<td width="38%" valign="middle">
+<a href="https://ssi-bench.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/SSI-Bench/main/assets/teaser.jpg" width="100%" alt="SSI-Bench research overview" /></a>
+</td>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/PIER-Lab/SSI-Bench">SSI-Bench</a></h3>
+<p>2026-02-08 &nbsp; · &nbsp; <strong>ICML 2026</strong></p>
+<p>Evaluating spatial intelligence in structures governed by geometric, topological, and physical constraints.</p>
+<p><a href="https://github.com/PIER-Lab/SSI-Bench">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2602.07864">Paper</a> &nbsp; · &nbsp; <a href="https://ssi-bench.github.io/">Project Page</a></p>
 </td>
 </tr>
 </table>
-
-## Projects & Papers
-
-| Project | Research focus | Explore |
-| :--- | :--- | :--- |
-| **[Asking the World](https://github.com/PIER-Lab/Asking-the-World)** | Generalist physical reasoning through agentic world modeling and probing, with a programmable multiphysics engine. | [Website](https://asking-the-world.github.io/) · [Paper](https://arxiv.org/abs/2609.39135) |
-| **[PhysMind](https://github.com/PIER-Lab/PhysMind)** | From video to executable 3D worlds for training-free physical reasoning. | [Website](https://physmind.github.io/) · [Paper](https://arxiv.org/abs/2608.04575) |
-| **[SimpleTouch](https://github.com/PIER-Lab/SimpleTouch)** | Tactile experts for contact-rich manipulation without tactile policy pretraining. | [Website](https://simpletouch-robot.github.io/) · [Paper](https://arxiv.org/abs/2610.02784) |
-| **[TacTalent](https://github.com/PIER-Lab/TacTalent)** | Investigating a general-purpose multimodal model as a visuo-tactile policy for contact-rich manipulation. | [Website](https://tactalent.github.io/) · [Paper](https://arxiv.org/abs/2610.26846) |
-| **[SSI-Bench](https://github.com/PIER-Lab/SSI-Bench)** · ICML 2026 | Evaluating spatial intelligence in structures governed by geometric, topological, and physical constraints. | [Website](https://ssi-bench.github.io/) · [Paper](https://arxiv.org/abs/2602.07864) |
 
 ## Explore & Collaborate
 
