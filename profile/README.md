@@ -24,58 +24,69 @@ Newest first · Dates refer to the first arXiv submission.
 
 <table>
 <tr>
-<td width="38%" valign="middle">
+<td width="38%" align="center" valign="middle">
 <a href="https://tactalent.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/TacTalent/main/assets/readme/benchmark-performance.png" width="100%" alt="TacTalent research overview" /></a>
 </td>
-<td width="62%" valign="top">
-<h3><a href="https://github.com/PIER-Lab/TacTalent">TacTalent</a></h3>
-<p>2026-10-19</p>
-<p>Investigating a general-purpose multimodal model as a visuo-tactile policy for contact-rich manipulation.</p>
-<p><a href="https://github.com/PIER-Lab/TacTalent">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2610.26846">Paper</a> &nbsp; · &nbsp; <a href="https://tactalent.github.io/">Project Page</a></p>
+<td width="62%" align="center" valign="middle">
+<h3 align="center"><a href="https://github.com/PIER-Lab/TacTalent">TacTalent</a></h3>
+<p align="center">2026-10-19</p>
+<p align="center">Investigating a general-purpose multimodal model as a visuo-tactile policy for contact-rich manipulation.</p>
+<p align="center"><a href="https://github.com/PIER-Lab/TacTalent">Code</a><br />
+<a href="https://arxiv.org/abs/2610.26846">Paper</a><br />
+<a href="https://tactalent.github.io/">Project Page</a></p>
 </td>
 </tr>
 <tr>
-<td width="38%" valign="middle">
+<td width="38%" align="center" valign="middle">
 <a href="https://simpletouch-robot.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/SimpleTouch/main/assets/teaser.webp" width="100%" alt="SimpleTouch research overview" /></a>
 </td>
-<td width="62%" valign="top">
-<h3><a href="https://github.com/PIER-Lab/SimpleTouch">SimpleTouch</a></h3>
-<p>2026-10-02</p>
-<p>Tactile experts for contact-rich manipulation without tactile policy pretraining.</p>
-<p><a href="https://github.com/PIER-Lab/SimpleTouch">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2610.02784">Paper</a> &nbsp; · &nbsp; <a href="https://simpletouch-robot.github.io/">Project Page</a></p>
+<td width="62%" align="center" valign="middle">
+<h3 align="center"><a href="https://github.com/PIER-Lab/SimpleTouch">SimpleTouch</a></h3>
+<p align="center">2026-10-02</p>
+<p align="center">Tactile experts for contact-rich manipulation without tactile policy pretraining.</p>
+<p align="center"><a href="https://github.com/PIER-Lab/SimpleTouch">Code</a><br />
+<a href="https://arxiv.org/abs/2610.02784">Paper</a><br />
+<a href="https://simpletouch-robot.github.io/">Project Page</a></p>
 </td>
 </tr>
 <tr>
-<td width="38%" valign="middle">
+<td width="38%" align="center" valign="middle">
 <a href="https://asking-the-world.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/Asking-the-World/main/assets/teaser.png" width="100%" alt="Asking the World research overview" /></a>
 </td>
-<td width="62%" valign="top">
-<h3><a href="https://github.com/PIER-Lab/Asking-the-World">Asking the World</a></h3>
-<p>2026-09-30</p>
-<p>Generalist physical reasoning through agentic world modeling and probing, with a programmable multiphysics engine.</p>
-<p><a href="https://github.com/PIER-Lab/Asking-the-World">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2609.39135">Paper</a> &nbsp; · &nbsp; <a href="https://asking-the-world.github.io/">Project Page</a></p>
+<td width="62%" align="center" valign="middle">
+<h3 align="center"><a href="https://github.com/PIER-Lab/Asking-the-World">Asking the World</a></h3>
+<p align="center">2026-09-30</p>
+<p align="center">Generalist physical reasoning through agentic world modeling and probing, with a programmable multiphysics engine.</p>
+<p align="center"><a href="https://github.com/PIER-Lab/Asking-the-World">Code</a><br />
+<a href="https://arxiv.org/abs/2609.39135">Paper</a><br />
+<a href="https://asking-the-world.github.io/">Project Page</a></p>
 </td>
 </tr>
 <tr>
-<td width="38%" valign="middle">
+<td width="38%" align="center" valign="middle">
 <a href="https://physmind.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/PhysMind/main/assets/teaser.png" width="100%" alt="PhysMind research overview" /></a>
 </td>
-<td width="62%" valign="top">
-<h3><a href="https://github.com/PIER-Lab/PhysMind">PhysMind</a></h3>
-<p>2026-08-05</p>
-<p>From video to executable 3D worlds for training-free physical reasoning.</p>
-<p><a href="https://github.com/PIER-Lab/PhysMind">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2608.04575">Paper</a> &nbsp; · &nbsp; <a href="https://physmind.github.io/">Project Page</a></p>
+<td width="62%" align="center" valign="middle">
+<h3 align="center"><a href="https://github.com/PIER-Lab/PhysMind">PhysMind</a></h3>
+<p align="center">2026-08-05</p>
+<p align="center">From video to executable 3D worlds for training-free physical reasoning.</p>
+<p align="center"><a href="https://github.com/PIER-Lab/PhysMind">Code</a><br />
+<a href="https://arxiv.org/abs/2608.04575">Paper</a><br />
+<a href="https://physmind.github.io/">Project Page</a></p>
 </td>
 </tr>
 <tr>
-<td width="38%" valign="middle">
+<td width="38%" align="center" valign="middle">
 <a href="https://ssi-bench.github.io/"><img src="https://raw.githubusercontent.com/PIER-Lab/SSI-Bench/main/assets/teaser.jpg" width="100%" alt="SSI-Bench research overview" /></a>
 </td>
-<td width="62%" valign="top">
-<h3><a href="https://github.com/PIER-Lab/SSI-Bench">SSI-Bench</a></h3>
-<p>2026-02-08 &nbsp; · &nbsp; <strong>ICML 2026</strong></p>
-<p>Evaluating spatial intelligence in structures governed by geometric, topological, and physical constraints.</p>
-<p><a href="https://github.com/PIER-Lab/SSI-Bench">Code</a> &nbsp; · &nbsp; <a href="https://arxiv.org/abs/2602.07864">Paper</a> &nbsp; · &nbsp; <a href="https://ssi-bench.github.io/">Project Page</a></p>
+<td width="62%" align="center" valign="middle">
+<h3 align="center"><a href="https://github.com/PIER-Lab/SSI-Bench">SSI-Bench</a></h3>
+<p align="center"><img src="https://raw.githubusercontent.com/PIER-Lab/.github/main/assets/icml-2026.svg" alt="ICML 2026" /></p>
+<p align="center">2026-02-08</p>
+<p align="center">Evaluating spatial intelligence in structures governed by geometric, topological, and physical constraints.</p>
+<p align="center"><a href="https://github.com/PIER-Lab/SSI-Bench">Code</a><br />
+<a href="https://arxiv.org/abs/2602.07864">Paper</a><br />
+<a href="https://ssi-bench.github.io/">Project Page</a></p>
 </td>
 </tr>
 </table>
