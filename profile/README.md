@@ -81,7 +81,7 @@ Newest first · Dates refer to the first arXiv submission.
 </td>
 <td width="62%" align="center" valign="middle">
 <h3 align="center"><a href="https://github.com/PIER-Lab/SSI-Bench">SSI-Bench</a></h3>
-<p align="center"><img src="https://raw.githubusercontent.com/PIER-Lab/.github/main/assets/icml-2026.svg" alt="ICML 2026" /></p>
+<p align="center"><picture><img src="https://raw.githubusercontent.com/PIER-Lab/.github/main/assets/icml-2026.svg?v=cloud-sky-coral" alt="ICML 2026" /></picture></p>
 <p align="center">2026-02-08</p>
 <p align="center">Evaluating spatial intelligence in structures governed by geometric, topological, and physical constraints.</p>
 <p align="center"><a href="https://github.com/PIER-Lab/SSI-Bench">Code</a><br />
