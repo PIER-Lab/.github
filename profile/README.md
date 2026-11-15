@@ -6,7 +6,7 @@
 
 **Grounded in Physics. Embodied in Action.**
 
-Mechanics &nbsp; · &nbsp; Physical AI &nbsp; · &nbsp; Embodied Intelligence &nbsp; · &nbsp; Engineering
+⚙️ Mechanics &nbsp; · &nbsp; ⚛️ Physical AI &nbsp; · &nbsp; 🤖 Embodied Intelligence &nbsp; · &nbsp; 🛠️ Engineering
 
 [Recent Research](#recent-research) &nbsp; / &nbsp; [Repositories](https://github.com/orgs/PIER-Lab/repositories)
 
@@ -14,9 +14,9 @@ Mechanics &nbsp; · &nbsp; Physical AI &nbsp; · &nbsp; Embodied Intelligence &n
 
 ---
 
-We study how intelligent systems **understand, reason about, and interact with the physical world**. Rooted in mechanics and engineering, PIER Lab connects physical modeling and simulation with embodied perception, reasoning, and action.
+🌍 We study how intelligent systems **understand, reason about, and interact with the physical world**. Rooted in mechanics and engineering, PIER Lab connects physical modeling and simulation with embodied perception, reasoning, and action.
 
-Our work spans executable world models for physical reasoning, vision and touch for contact-rich manipulation, and spatial intelligence under geometric and physical constraints. We share code, benchmarks, and research tools to support further exploration of physical intelligence.
+🔬 Our work spans executable world models for physical reasoning, vision and touch for contact-rich manipulation, and spatial intelligence under geometric and physical constraints. We share code, benchmarks, and research tools to support further exploration of physical intelligence.
 
 ## Recent Research
 
